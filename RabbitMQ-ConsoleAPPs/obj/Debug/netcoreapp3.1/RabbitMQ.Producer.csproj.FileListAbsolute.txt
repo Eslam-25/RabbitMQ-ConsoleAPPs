@@ -1,0 +1,17 @@
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.exe
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.AssemblyInfoInputs.cache
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.AssemblyInfo.cs
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.csproj.CopyComplete
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.deps.json
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.runtimeconfig.json
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.runtimeconfig.dev.json
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.pdb
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.csproj.CoreCompileInputs.cache
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.pdb
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.genruntimeconfig.cache
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\Service1\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.csprojAssemblyReference.cache

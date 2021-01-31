@@ -1,0 +1,17 @@
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\bin\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.exe
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\bin\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.deps.json
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\bin\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.runtimeconfig.json
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\bin\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.runtimeconfig.dev.json
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\bin\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\bin\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.pdb
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\obj\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.csprojAssemblyReference.cache
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\obj\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.AssemblyInfoInputs.cache
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\obj\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.AssemblyInfo.cs
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\obj\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\obj\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.pdb
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\obj\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.genruntimeconfig.cache
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\obj\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.csproj.CopyComplete
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eslam.heikal\Desktop\Demos\C#\RabbitMQ\RabbitMQ.Consume.Bank\obj\Debug\netcoreapp3.1\RabbitMQ.Consume.Bank.csproj.CoreCompileInputs.cache

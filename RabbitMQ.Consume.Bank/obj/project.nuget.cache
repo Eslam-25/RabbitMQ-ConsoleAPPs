@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ARGzK7wEL4KR8ISMRo6tHOBIv/k3slONvNRB0eReTKxmqpZ3YHlwv0VuAaP6UzGs7/C4ITcOTUTNy0w6+D5kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eslam.heikal\\Desktop\\Demos\\C#\\RabbitMQ\\RabbitMQ.Consume.Bank\\RabbitMQ.Consume.Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eslam.heikal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\eslam.heikal\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\eslam.heikal\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\eslam.heikal\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
